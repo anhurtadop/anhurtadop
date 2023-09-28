@@ -1,6 +1,6 @@
-### ¡Hola! 🤖
+### ¡Hola mundo! 🤖
 
-Mi nombre es Anthony Hurtado.
+Soy Anthony, un Desarrollador Full Stack especializado en la creación de aplicaciones personalizadas con 13 años de experiencia, liderando equipos multidisciplinarios con metodologías ágiles en Startups de alto rendimiento.
 
 <!--
 **anhurtado/anhurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
