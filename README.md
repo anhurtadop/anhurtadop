@@ -1,19 +1,12 @@
-### ¡Hola mundo! 🤖👋
+# ¡Hola mundo, soy Anthony! 🤖👋
 
-Soy Anthony, un Desarrollador Full Stack especializado en la creación de aplicaciones personalizadas con 13 años de experiencia, liderando equipos multidisciplinarios con metodologías ágiles en Startups de alto rendimiento.
+Ingeniero de Software con más de 14 años de experiencia en la creación de aplicaciones web. Me especializo en liderar equipos multidisciplinarios en startups de alto rendimiento
 
-¿Quieres saber más de mí? Visita mi [sitio web](https://www.anhurtadop.com)
-<!--
-**anhurtado/anhurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Actividad en GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Contribution Graph](https://ghchart.rshah.org/anhurtadop)
+
+
+## Proyectos
+- **[Mi sitio web](https://www.anhurtadop.com)** – Portafolio personal.
